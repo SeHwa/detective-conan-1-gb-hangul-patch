@@ -1,1 +1,1 @@
-# detective-conan-1-gb-hangul-patch
+# 명탐정 코난 GB 지하유원지 살인사건 한글패치
