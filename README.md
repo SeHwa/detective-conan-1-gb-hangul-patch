@@ -1,0 +1,1 @@
+# detective-conan-1-gb-hangul-patch
